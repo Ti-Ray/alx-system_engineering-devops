@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ld .* |grep -v ^d
+ls -l
