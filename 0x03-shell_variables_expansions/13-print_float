@@ -1,2 +1,2 @@
 #!/bin/bash
-printf -v int %.0f "$NUM"
+echo $((NUM / 1))
